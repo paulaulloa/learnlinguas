@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/learnlinguas/static/css/main.527cb5e2.chunk.css",
+    "main.js": "/learnlinguas/static/js/main.df207fc4.chunk.js",
+    "main.js.map": "/learnlinguas/static/js/main.df207fc4.chunk.js.map",
+    "runtime-main.js": "/learnlinguas/static/js/runtime-main.4023d8db.js",
+    "runtime-main.js.map": "/learnlinguas/static/js/runtime-main.4023d8db.js.map",
+    "static/css/2.0dbaaaed.chunk.css": "/learnlinguas/static/css/2.0dbaaaed.chunk.css",
+    "static/js/2.f8e21b79.chunk.js": "/learnlinguas/static/js/2.f8e21b79.chunk.js",
+    "static/js/2.f8e21b79.chunk.js.map": "/learnlinguas/static/js/2.f8e21b79.chunk.js.map",
+    "static/js/3.e97d878c.chunk.js": "/learnlinguas/static/js/3.e97d878c.chunk.js",
+    "static/js/3.e97d878c.chunk.js.map": "/learnlinguas/static/js/3.e97d878c.chunk.js.map",
+    "index.html": "/learnlinguas/index.html",
+    "static/css/2.0dbaaaed.chunk.css.map": "/learnlinguas/static/css/2.0dbaaaed.chunk.css.map",
+    "static/css/main.527cb5e2.chunk.css.map": "/learnlinguas/static/css/main.527cb5e2.chunk.css.map",
+    "static/js/2.f8e21b79.chunk.js.LICENSE.txt": "/learnlinguas/static/js/2.f8e21b79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4023d8db.js",
+    "static/css/2.0dbaaaed.chunk.css",
+    "static/js/2.f8e21b79.chunk.js",
+    "static/css/main.527cb5e2.chunk.css",
+    "static/js/main.df207fc4.chunk.js"
+  ]
+}
